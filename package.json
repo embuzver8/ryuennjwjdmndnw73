@@ -1,0 +1,14 @@
+{
+  "name": "botruletka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.2.3",
+    "nodemon": "^1.18.1",
+    "telebot": "^1.2.6"
+  }
+}

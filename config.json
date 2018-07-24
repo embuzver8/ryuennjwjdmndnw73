@@ -1,0 +1,12 @@
+{
+    "text":{
+        "DEFAULT_MENU": {
+            "rus": "Добро пожаловать. \nВы в главном меню",
+            "eng": "You're quite welcome. \nYou are in the main menu"
+        },
+        "HOLDING": {
+            "rus": "Активные вклады",
+            "eng": "active contribution"
+        }
+    }
+}
